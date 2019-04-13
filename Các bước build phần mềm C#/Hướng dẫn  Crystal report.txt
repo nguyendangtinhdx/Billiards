@@ -1,0 +1,17 @@
+CrystalReport2 r = new CrystalReport2();
+r.SetDataSource(frmTableManager.listBillInfo);
+r.SetParameterValue("NguoiLapPhieu", frmTableManager.NguoiLapPhieu);
+r.SetParameterValue("Ban", frmTableManager.Ban);
+r.SetParameterValue("TongThanhTien", frmTableManager.TongThanhTien);
+r.SetParameterValue("GiamGia", frmTableManager.GiamGia + " %");
+r.SetParameterValue("TongTien", frmTableManager.TongTien);
+r.SetParameterValue("TongTienBangChu", frmTableManager.TongTienBangChu);
+crystalReportViewer1.ReportSource = r;
+
+<configuration>
+    <startup useLegacyV2RuntimeActivationPolicy="true"> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+</configuration>
+
+useLegacyV2RuntimeActivationPolicy="true"

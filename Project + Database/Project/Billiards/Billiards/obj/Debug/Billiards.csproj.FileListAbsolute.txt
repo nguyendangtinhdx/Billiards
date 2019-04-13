@@ -1,0 +1,15 @@
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\bin\Debug\Billiards.exe
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\bin\Debug\Billiards.pdb
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.frmLogin.resources
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.csproj.GenerateResource.Cache
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.exe
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.pdb
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.frmAccountProfile.resources
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.frmTableManager.resources
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.frmAdmin.resources
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.frmDebt.resources
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.frmPrintCheckout.resources
+C:\Users\nguye\Documents\Billiards\Project\Billiards\Billiards\obj\Debug\Billiards.frmPrintConvenue.resources
